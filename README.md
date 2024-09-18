@@ -27,10 +27,27 @@ This guide will walk you through the process of installing and using this Chrome
 
 6. The extension should now be installed and visible in your Chrome browser.
 
+## Before
+
+![before](./before-1.png)
+
+## After
+
+![after](./after-1.png)
+
+## Before
+
+![before](./before-2.png)
+
+## After
+
+![after](./after-2.png)
+
 ## Usage
 
 - After installation, you should see the extension icon in your Chrome toolbar.
-- Click on the icon to open the extension popup or use its features as intended.
+- Go to Gumroad.com and see the magic!
+  - Use dev tools to emulate mobile view
 
 ## Troubleshooting
 
@@ -51,7 +68,3 @@ To update the extension with the latest version:
    If you downloaded the ZIP, download the latest version and replace the existing files.
 
 2. Go to `chrome://extensions/` and click the "Reload" button for this extension.
-
-## Support
-
-If you encounter any issues or have questions, please [contact the extension developer or support team].

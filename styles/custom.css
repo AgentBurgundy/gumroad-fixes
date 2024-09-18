@@ -1,0 +1,25 @@
+@media screen and (max-width: 767px) {
+  article.product-card.horizontal footer {
+    display: block !important;
+  }
+
+  article.product-card.horizontal footer > * {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+  }
+}
+
+main.discover > footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: bottom 0.3s ease-in-out;
+  z-index: 1000;
+}
+
+main.discover > footer.sticky {
+  bottom: 0;
+}
